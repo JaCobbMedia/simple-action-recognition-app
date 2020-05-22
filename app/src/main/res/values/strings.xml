@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Action Recognition</string>
+    <string name="title_simple_action_recognition_prototype">Simple action recognition prototype</string>
+    <string name="info_action_recognition_prototype_based_on_pose_estimation">Action recognition prototype based on pose estimation to test possible use cases</string>
+    <string name="button_hand_gesture_recognition">Hand gesture recognition</string>
+    <string name="button_pushups_counter">Pushups Counter</string>
+</resources>
